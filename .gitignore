@@ -4,6 +4,5 @@
 #ignoring ipynb checkpoints
 .ipynb_checkpoints/
 
-#ignoring file containing project data
+#ignoring project data
 data/
-
